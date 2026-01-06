@@ -24,7 +24,8 @@
     },
     "commits": 321,
     "wiki": 125,
-    "midas": 378
+    "midas": 378,
+    "totalActivity": 824
   },
   {
     "id": 2,
@@ -50,7 +51,8 @@
     },
     "commits": 354,
     "wiki": 25,
-    "midas": 309
+    "midas": 309,
+    "totalActivity": 688
   },
   {
     "id": 3,
@@ -75,8 +77,9 @@
       "bs": "e-enable strategic applications"
     },
     "commits": 321,
-    "wiki": 105,
-    "midas": 278
+    "wiki": 75,
+    "midas": 278,
+    "totalActivity": 674
   },
   {
     "id": 4,
@@ -101,8 +104,9 @@
       "bs": "transition cutting-edge web services"
     },
     "commits": 321,
-    "wiki": 125,
-    "midas": 378
+    "wiki": 75,
+    "midas": 278,
+    "totalActivity": 674
   },
   {
     "id": 5,
@@ -127,8 +131,9 @@
       "bs": "revolutionize end-to-end systems"
     },
     "commits": 321,
-    "wiki": 125,
-    "midas": 378
+    "wiki": 75,
+    "midas": 278,
+    "totalActivity": 674
   },
   {
     "id": 6,
@@ -153,8 +158,9 @@
       "bs": "e-enable innovative applications"
     },
     "commits": 321,
-    "wiki": 125,
-    "midas": 378
+    "wiki": 75,
+    "midas": 278,
+    "totalActivity": 674
   },
   {
     "id": 7,
@@ -179,8 +185,9 @@
       "bs": "generate enterprise e-tailers"
     },
     "commits": 321,
-    "wiki": 125,
-    "midas": 378
+    "wiki": 75,
+    "midas": 278,
+    "totalActivity": 674
   },
   {
     "id": 8,
@@ -205,8 +212,9 @@
       "bs": "e-enable extensible e-tailers"
     },
     "commits": 321,
-    "wiki": 125,
-    "midas": 378
+    "wiki": 75,
+    "midas": 278,
+    "totalActivity": 674
   },
   {
     "id": 9,
@@ -231,8 +239,9 @@
       "bs": "aggregate real-time technologies"
     },
     "commits": 321,
-    "wiki": 125,
-    "midas": 378
+    "wiki": 75,
+    "midas": 278,
+    "totalActivity": 674
   },
   {
     "id": 10,
@@ -257,8 +266,9 @@
       "bs": "target end-to-end models"
     },
     "commits": 321,
-    "wiki": 125,
-    "midas": 378
+    "wiki": 75,
+    "midas": 278,
+    "totalActivity": 674
   }
 ],
   "comments": [
